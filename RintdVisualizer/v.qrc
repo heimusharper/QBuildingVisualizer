@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/add.png</file>
+        <file>img/add_16.png</file>
+        <file>img/add_light.png</file>
+        <file>img/add_light_svet.png</file>
+        <file>img/add_room.png</file>
+        <file>img/add_sensor.png</file>
+        <file>img/add_speaker.png</file>
+        <file>img/add_transition.png</file>
+        <file>img/add_zone.png</file>
+        <file>img/delete.png</file>
+        <file>img/move_down.png</file>
+        <file>img/move_left.png</file>
+        <file>img/move_right.png</file>
+        <file>img/move_up.png</file>
+        <file>img/zoom-in.png</file>
+        <file>img/zoom-original.png</file>
+        <file>img/zoom-out.png</file>
+    </qresource>
+</RCC>
